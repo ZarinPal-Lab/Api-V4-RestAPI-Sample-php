@@ -2,7 +2,7 @@
 <?php
 
 $data = array(
-    'MerchantID' => '4c2f1680-036c-4057-b6a8-06fdae8e8897', // Your Merchant Id | Required
+    'MerchantID' => 'aa03d05a-c304-11e5-9aad-000c295eb8fc', // Your Merchant Id | Required
     'Amount' => 100,  //Amount in Toman | Required
     'CallbackURL' => 'http://www.YourSite.com/', // Required
            'Description' => 'خرید تست',  // Required
